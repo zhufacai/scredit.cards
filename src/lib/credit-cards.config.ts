@@ -14,7 +14,7 @@ export const creditCards: CreditCard[] = [
     secretCVV: "U2FsdGVkX1/51HK0IAozflI8/bey/Hv6umAeAr4rtSE=", // 示例加密字符串
     type: "visa",
     name: "工行 全币种国际信用卡",
-    validThru: "04/27",
+    validThru: "妈妈电话号码第5位和最一位/27",
   },
   {
     id: "2",
@@ -22,7 +22,7 @@ export const creditCards: CreditCard[] = [
     secretCVV: "U2FsdGVkX1+7R80R0JuH0MCQzqoZ5AUNk5V9VaJj3wU=", // 示例加密字符串
     type: "unionpay",
     name: "工行",
-    validThru: "04/27",
+    validThru: "妈妈电话号码第5位和最一位/27",
   },
   {
     id: "3",
@@ -30,7 +30,7 @@ export const creditCards: CreditCard[] = [
     secretCVV: "U2FsdGVkX1+3pG2DR0s2ykRBlpMcVUccM6+Z3lIbOxY=", // 示例加密字符串
     type: "unionpay",
     name: "农行",
-    validThru: "08/27",
+    validThru: "妈妈电话号码第5位和第3位/27",
   },
   {
     id: "4",
@@ -38,6 +38,6 @@ export const creditCards: CreditCard[] = [
     secretCVV: "U2FsdGVkX1/KluyjbZlUQDo1wlOha799uf7wPVPwud0=", // 示例加密字符串
     type: "unionpay",
     name: "浦发",
-    validThru: "12/27",
+    validThru: "妈妈电话号码第1位和第6位/27",
   },
 ]
