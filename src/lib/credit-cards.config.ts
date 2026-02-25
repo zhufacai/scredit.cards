@@ -10,42 +10,34 @@ export interface CreditCard {
 export const creditCards: CreditCard[] = [
   {
     id: "1",
-    number: "•••• •••• •••• 1234",
-    secretCVV: "U2FsdGVkX1+vupppZksvRf5pq5g5XjFRIipRkwB0K1Y=", // 示例加密字符串
+    number: "•••• •••• •••• 1963",
+    secretCVV: "U2FsdGVkX1/51HK0IAozflI8/bey/Hv6umAeAr4rtSE=", // 示例加密字符串
     type: "visa",
-    name: "招行 全币种国际信用卡",
-    validThru: "01/22",
+    name: "工行 全币种国际信用卡",
+    validThru: "04/27",
   },
   {
     id: "2",
-    number: "•••• •••• •••• 5678",
-    secretCVV: "U2FsdGVkX1+3DAAudosk93jkVReiNw==", // 示例加密字符串
-    type: "master",
-    name: "招行 双币信用卡",
-    validThru: "老婆生日月份/那一年刚好40岁",
+    number: "•••• •••• •••• 3939",
+    secretCVV: "U2FsdGVkX1+7R80R0JuH0MCQzqoZ5AUNk5V9VaJj3wU=", // 示例加密字符串
+    type: "unionpay",
+    name: "工行",
+    validThru: "04/27",
   },
   {
     id: "3",
-    number: "•••• •••• •••• 9012",
-    secretCVV: "U2FsdGVkX1+ZvFb7eMsilFusXkuHlolD", // 示例加密字符串
+    number: "•••• •••• •••• 9219",
+    secretCVV: "U2FsdGVkX1+3pG2DR0s2ykRBlpMcVUccM6+Z3lIbOxY=", // 示例加密字符串
     type: "unionpay",
-    name: "银联信用卡",
-    validThru: "01/22",
+    name: "农行",
+    validThru: "08/27",
   },
   {
     id: "4",
-    number: "•••• •••• •••• 2872",
-    secretCVV: "U2FsdGVkX1+ZvFb7eMsilFusXkuHlolD", // 示例加密字符串
-    type: "discover",
-    name: "Discover",
-    validThru: "01/22",
-  },
-  {
-    id: "5",
-    number: "•••• •••• •••• 3098",
-    secretCVV: "U2FsdGVkX1+ZvFb7eMsilFusXkuHlolD", // 示例加密字符串
-    type: "amex",
-    name: "American Express",
-    validThru: "01/22",
+    number: "•••• •••• •••• 7115",
+    secretCVV: "U2FsdGVkX1/KluyjbZlUQDo1wlOha799uf7wPVPwud0=", // 示例加密字符串
+    type: "unionpay",
+    name: "浦发",
+    validThru: "12/27",
   },
 ]
